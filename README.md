@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### https://holopin.me/adt21
+### https://holopin.io/@adt21
+### Hi 👋, I'm Aditi
+### 🌱 I'm currently learning Javascript, Node.js, Git
+### 💬 Ask me about Core Java, SQL, DBMS, HTML, CSS, JDBC, MongoDB, DSA
+### 📫 How to reach me: aditi.paul248@gmail.com
 <!--
 **adt21/adt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
