@@ -1,6 +1,6 @@
 [![An image of @adt21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adt21)](https://holopin.io/@adt21)
 <h1 align="center">Hi 👋, I'm Aditi Paul</h1>
-<h3 align="center">A software Engineer enthusiast from India</h3>	
+<h3 align="center">A Software Engineer enthusiast from India</h3>	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adt21&label=Profile%20views&color=0e75b6&style=flat" alt="adt21" /> </p>
 
