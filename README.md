@@ -1,4 +1,4 @@
-### https://holopin.me/adt21
+
 ### https://holopin.io/@adt21
 ### Hi 👋, I'm Aditi
 ### 🌱 I'm currently learning Javascript, Node.js, Git
