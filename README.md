@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adt21&label=Profile%20views&color=0e75b6&style=flat" alt="adt21" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Node.Js, Git**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
 - 💬 Ask me about **Core Java, SQL, DBMS, HTML, CSS, DSA**
 
